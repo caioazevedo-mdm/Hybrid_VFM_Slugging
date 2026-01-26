@@ -36,8 +36,8 @@ pip install -r requirements.txt
 
 3. **Run the Pipeline**
 ```bash
-python src/12_generation.py  # Generates the synthetic data
-python src/15_vfm_proof.py   # Validates the financial gain
+python src/12_final_generation_pipeline.py  # Generates the synthetic data
+python src/15_vfm_proof_of_value.py   # Validates the financial gain
 ```
 
 ---
