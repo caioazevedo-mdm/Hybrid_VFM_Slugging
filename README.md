@@ -1,4 +1,4 @@
-# Generative AI for Flow Assurance: Synthetic Slugging Generator
+# (PoC) Generative AI for Flow Assurance: Synthetic Slugging Generator
 
 ### Summary
 R&D project addressing the data scarcity of critical failures (Severe Slugging) in offshore oil wells. This project leverages **Denoising Diffusion Probabilistic Models (DDPM)** to generate physically consistent synthetic scenarios, enhancing the robustness of safety systems and Virtual Flow Meters (VFM).
