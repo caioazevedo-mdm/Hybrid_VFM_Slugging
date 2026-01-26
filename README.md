@@ -27,7 +27,7 @@ R&D project addressing the data scarcity of critical failures (Severe Slugging) 
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/GenAI-Flow-Assurance.git](https://github.com/YOUR_USERNAME/GenAI-Flow-Assurance.git)
+git clone https://github.com/caioazevedo-mdm/Hybrid_VFM_Slugging.git
 ```
 2. **Install dependencies**
 ```bash
